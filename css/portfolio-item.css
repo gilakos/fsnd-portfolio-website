@@ -28,8 +28,12 @@ body {
 
 .header_line {
     border-width: 5px;
-    margin: 0.25rem 0 1.5rem;
+    margin: 1.0rem 0 2.0rem;
     color: #7d97ad;
+}
+
+.no-gutters {
+    padding: auto 0;
 }
 
 .folio_header {
@@ -38,7 +42,7 @@ body {
 
 .featured_break {
     color: #7d97ad;
-    margin: 1.5rem auto 1.0rem;
+    margin: 1.5rem auto;
 }
 
 .folio_main {
@@ -74,6 +78,6 @@ body {
 
 @media (min-width: 992px) {
     body {
-        padding-top: 56px;
+        padding-top: 20px;
     }
 }
