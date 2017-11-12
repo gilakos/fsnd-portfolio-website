@@ -72,6 +72,10 @@ body {
     margin: 0.25rem;
 }
 
+.footer_info {
+    text-align: center;
+}
+
 .container {
     padding: 0;
 }
